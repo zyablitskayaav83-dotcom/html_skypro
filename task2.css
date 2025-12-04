@@ -1,0 +1,19 @@
+.red{
+color: red;
+}
+.blue{
+color: blue;
+}
+.yellow{
+    color: yellow;
+}
+.green{
+    color: green;
+}
+.xxsmall { font-size: 8px; }
+    .xsmall  { font-size: 10px; }
+    .small   { font-size: 12px; }
+    .medium  { font-size: 16px; }
+    .large   { font-size: 20px; }
+    .xlarge  { font-size: 24px; }
+    .xxlarge { font-size: 32px; }
